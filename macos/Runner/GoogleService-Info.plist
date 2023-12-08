@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463287109775-oomvfmr2aelo6ltc3g197g2131l8hoap.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463287109775-oomvfmr2aelo6ltc3g197g2131l8hoap</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>463287109775-3qje4vi6e5a8vk13878i248eq9akta83.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPY6Je74VH8FGhYxVoVDW7fsRZmceOA2c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463287109775</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.doctorapp.doctorAppV3.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>doctor-app-v3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doctor-app-v3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463287109775:ios:ff7fd3eb042072d11448fa</string>
+</dict>
+</plist>
